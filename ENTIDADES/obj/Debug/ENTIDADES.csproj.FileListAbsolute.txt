@@ -1,0 +1,17 @@
+D:/Web/Web/ENTIDADES/bin/Debug/ENTIDADES.dll
+D:/Web/Web/ENTIDADES/bin/Debug/ENTIDADES.pdb
+D:/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.csprojResolveAssemblyReference.cache
+D:/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.dll
+D:/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.pdb
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/ENTIDADES/bin/Debug/ENTIDADES.dll
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/ENTIDADES/bin/Debug/ENTIDADES.pdb
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.csprojAssemblyReference.cache
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.csproj.CoreCompileInputs.cache
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.dll
+C:/Users/EducaciónIT/Downloads/WebCapas/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.pdb
+/Users/damianrosso/Desktop/WebCapas/Web/Web/ENTIDADES/bin/Debug/ENTIDADES.dll
+/Users/damianrosso/Desktop/WebCapas/Web/Web/ENTIDADES/bin/Debug/ENTIDADES.pdb
+/Users/damianrosso/Desktop/WebCapas/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.csprojAssemblyReference.cache
+/Users/damianrosso/Desktop/WebCapas/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.csproj.CoreCompileInputs.cache
+/Users/damianrosso/Desktop/WebCapas/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.dll
+/Users/damianrosso/Desktop/WebCapas/Web/Web/ENTIDADES/obj/Debug/ENTIDADES.pdb
